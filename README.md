@@ -7,7 +7,8 @@
 **Duration:** 17th Dec to 17th Jan
 
 ## Overview of the Project
-
+This is a simple calculator created using Python and Tkinter.
+![Calculator Image](calculator.png)
 The project is a simple calculator application created using Python and Tkinter. This program prompts the user to enter two numbers and choose a mathematical operation (addition, subtraction, multiplication, or division). It then performs the selected operation and displays the result.
 
 ## Task One: Simple Calculator
